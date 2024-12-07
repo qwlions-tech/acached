@@ -2,7 +2,7 @@
 name = "acached"
 version = "0.1.0"
 description = ""
-authors = ["mainde <maindev@trussed.ai>"]
+authors = ["qwlions <qwlions@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
