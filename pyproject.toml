@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "acached"
 version = "0.1.0"
-description = ""
+description = "Cache for syncronous and asyncrounous functions"
 authors = ["qwlions <qwlions@gmail.com>"]
 readme = "README.md"
 
